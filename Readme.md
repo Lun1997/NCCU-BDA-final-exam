@@ -3,7 +3,7 @@
 觀察NN模型下梯度下降的優化過程<br>
 資料集:minst 手寫數字辨識 
 
-## 第一題
+## first
 載入套件
 ```python
 import numpy as np
@@ -132,7 +132,7 @@ plt.show()
 
 ![Pandao editor.md](https://i.imgur.com/ow4VCac.png)
 
-## 第二題
+## secend
 
 模型
 ```python
